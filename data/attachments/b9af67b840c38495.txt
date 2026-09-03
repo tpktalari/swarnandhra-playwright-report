@@ -1,0 +1,4 @@
+user creds: cfss_admin : ASR@@!%
+Main Table Scores: Map(2) { 'Kothuru' => 3, 'Pathapatnam' => 0 }
+index is  5
+Average Scores:  Map(2) { 'Kothuru' => 3, 'Pathapatnam' => 0 }

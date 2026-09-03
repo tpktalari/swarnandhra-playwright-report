@@ -1,0 +1,4 @@
+user creds: cfss_admin : ASR@@!%
+Main Table Scores: Map(2) { 'Ichchapuram' => 0, 'Palakonda (ST)' => 65 }
+index is  4
+Average Scores:  Map(2) { 'Ichchapuram' => 0, 'Palakonda (ST)' => 65 }

@@ -1,0 +1,4 @@
+user creds: cfss_admin : ASR@@!%
+Main Table Scores: Map(2) { 'Amadalavalasa' => 76, 'Etcherla' => 82 }
+index is  4
+Average Scores:  Map(2) { 'Amadalavalasa' => 76, 'Etcherla' => 82 }

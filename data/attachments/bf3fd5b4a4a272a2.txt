@@ -1,0 +1,10 @@
+user creds: cfss_admin : ASR@@!%
+Main Table Scores: Map(2) {
+  'AGC01 - Agriculture Marketing & Cooperation Secretariat' => 84,
+  'AHF01 - Animal Husbandry, Dairy Development & Fisheries Secretariat' => 85
+}
+index is  3
+Average Scores:  Map(2) {
+  'AGC01 - Agriculture Marketing & Cooperation Secretariat' => 84,
+  'AHF01 - Animal Husbandry, Dairy Development & Fisheries Secretariat' => 85
+}
